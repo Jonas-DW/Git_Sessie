@@ -1,3 +1,3 @@
 #git sessie project
 
-IN dit project gaan we aan de slag met git
+In dit project gaan we aan de slag met git
